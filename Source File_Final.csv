@@ -1,0 +1,106 @@
+Src_File,Type of Crime,Place of Crime,No. of PPL effected,Time,Day
+51,Murder,Kondapur,1,1,Thursday
+52,Robbery,Kondapur,1,1,Wednesday
+52,Robbery,Kondapur,1,2,Saturday
+53,Murder,Kondapur,1,1,Monday
+53,Suicide ,Kondapur,1,2,Friday
+53,Suicide ,Kondapur,4,3,Thursday
+54,Suicide ,Kondapur,1,1,Sunday
+54,Suicide ,Kondapur,1,2,Tuesday
+54,Suicide ,Kondapur,,,Wednesday
+55,Suicide ,Kondapur,8,1,Thursday
+55,Suicide ,Kondapur,1,2,Thursday
+55,Suicide ,Kondapur,,,Wednesday
+61,Suicide ,Kukatpally,5,1,Saturday
+62,Suicide ,Kukatpally,1,1,Monday
+62,Suicide ,Kukatpally,10,2,Friday
+63,Suicide ,Kukatpally,2,1,Thursday
+63,Kidnap,Kukatpally,4,2,Sunday
+64,Kidnap,Kukatpally,2,1,Tuesday
+64,Kidnap,Kukatpally,1,2,Wednesday
+65,Suicide ,Kukatpally,5,1,Thursday
+66,Suicide,Kukatpally,1,2,Sunday
+66,Murder,Kukatpally,1,3,Tuesday
+12,Accident,Charminar,1,2,Wednesday
+12,Murder,Charminar,2,2,Saturday
+12,Suicide ,Charminar,3,2,Monday
+13,Murder,Charminar,1,3,Friday
+14,Kidnap,Charminar,2,4,Thursday
+14,Suicide,Charminar,3,4,Sunday
+15,Murder,Charminar,1,5,Tuesday
+15,Kidnap,Charminar,2,5,Wednesday
+15,Suicide,Charminar,3,5,Thursday
+16,Kidnap,Charminar,1,6,Friday
+16,Murder,Charminar,4,6,Sunday
+21,Robbery,Secunderabad,1,1,Monday
+21,Murder,Secunderabad,3,1,Saturday
+22,Kidnap,Secunderabad,2,2,Friday
+22,Suicide,Secunderabad,4,2,Tuesday
+23,Murder,Secunderabad,5,3,Friday
+24,Murder,Secunderabad,5,4,Monday
+25,Kidnap,Secunderabad,1,5,Wednesday
+25,Murder,Secunderabad,2,5,Tuesday
+25,Robbery,Secunderabad,3,5,Thursday
+26,Murder,Secunderabad,1,6,Friday
+26,Kidnap,Secunderabad,2,6,Saturday
+41,Robbery,Gachibouli,1,1,
+41,Murder,Gachibouli,1,1,
+41,Murder,Gachibouli,150,1,
+41,Murder,Gachibouli,1,1,
+42,Robbery,Gachibouli,1,2,
+43,Murder,Gachibouli,1,3,
+44,Murder,Gachibouli,1,4,
+45,Murder,Gachibouli,1,5,
+46,Murder,Gachibouli,1,6,
+46,Murder,Gachibouli,8,6,
+46,Robbery,Gachibouli,1,6,
+46,Murder,Gachibouli,1,6,
+71,Kidnap,Balanagar,2,1,
+71,Murder,Balanagar,1,1,
+72,Murder,Balanagar,1,2,
+72,Robbery,Balanagar,2,2,
+73,Robbery,Balanagar,1,3,
+73,Murder,Balanagar,1,3,
+74,Robbery,Balanagar,1,4,
+75,Kidnap,Balanagar,5,5,
+75,Robbery,Balanagar,1,5,
+76,Robbery,Balanagar,1,6,
+81,Kidnap,Komapally,8,1,
+81,Robbery,Komapally,1,1,
+82,Kidnap,Komapally,12,2,
+82,Murder,Komapally,1,2,
+83,Kidnap,Komapally,2,3,
+84,Kidnap,Komapally,3,4,
+84,Kidnap,Komapally,11,4,
+84,Kidnap,Komapally,11,4,
+85,Murder,Komapally,1,5,
+86,Murder,Komapally,1,6,
+92,Murder,Uppal,1,2,
+92,Robbery,Uppal,1,2,
+93,Robbery,Uppal,3,3,
+93,Murder,Uppal,3,3,
+93,Murder,Uppal,1,3,
+94,Kidnap,Uppal,1,4,
+94,Murder,Uppal,1,4,
+95,Robbery,Uppal,1,5,
+96,Robbery,Uppal,10,6,
+96,Murder,Uppal,1,6,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
